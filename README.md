@@ -61,12 +61,5 @@ http://127.0.0.1:5000/
 ```
 
 
-##  Author
 
-Made with ❤️ by **Rahul Kumar Giri**
-
-Let’s connect:
-🔗 [Portfolio](https://rahulkumargiri.vercel.app/)
-🔗 [LinkedIn](https://www.linkedin.com/in/rahulkumargiri15/)
-🔗 [GitHub](https://github.com/RahulRajGiri15)
 
