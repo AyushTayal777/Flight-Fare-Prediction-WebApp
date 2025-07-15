@@ -18,10 +18,10 @@ This web application predicts flight fares based on various input parameters suc
 
 ##  Machine Learning Model
 
-* **Model Used:** Random Forest Regressor (or specify if different)
+* **Model Used:** Random Forest Regressor
 * **Training Data:** Includes airlines, journey dates, stops, duration, source, and destination
 * **Techniques:** Feature engineering, label encoding, one-hot encoding
-* **Model Evaluation:** RMSE, R² Score (Add your actual results if available)
+* **Model Evaluation:** RMSE, R² Score 
 
 ---
 
